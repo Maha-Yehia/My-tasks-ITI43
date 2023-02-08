@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+
+<xs:element name="family" >
+<xs:complexType>
+<xs:sequence>
+<xs:element name="grandfather" type="grandfatherInfo"/>
+</xs:sequence>
+<xs:attribute name="name" type="xs:string" default="myfamilytree"/>
+</xs:complexType>
+</xs:element>
+	
+<xs:complexType name="grandfatherInfo" mixed="true">
+<xs:sequence>
+<xs:element ref="father" />
+<xs:element name="uncle" type="xs:string" minOccurs="2" maxOccurs="unbounded"/>
+<xs:element name="aunt" type="auntInfo"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:element name="father">
+<xs:complexType mixed="true">
+<xs:sequence>
+<xs:element name="mother" type="motherInfo" maxOccurs="4"/>
+<xs:element name="daughter" type="daughterInfo" maxOccurs="unbounded"/>
+<xs:element name="son" type="sonInfo" maxOccurs="unbounded"/>
+</xs:sequence>
+<xs:attribute name="job" type="xs:string" default="Engineer"/>
+</xs:complexType>
+</xs:element>
+
+
+<xs:complexType name="motherInfo">
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="name" type="xs:string"/>
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+
+<xs:complexType name="daughterInfo">
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="age" type="xs:string"/>
+<xs:attribute name="job" type="xs:string"/>
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+<xs:complexType name="sonInfo">
+<xs:simpleContent>
+<xs:extension base="xs:string">
+<xs:attribute name="age" type="xs:integer"/>
+<xs:attribute name="sport" type="xs:string"/>
+</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+
+<xs:complexType name="auntInfo">
+<xs:simpleContent>
+	<xs:extension base="xs:string">
+	<xs:attribute name="sons" type="xs:integer"/>
+	</xs:extension>
+</xs:simpleContent>
+</xs:complexType>
+
+
+
+</xs:schema>
