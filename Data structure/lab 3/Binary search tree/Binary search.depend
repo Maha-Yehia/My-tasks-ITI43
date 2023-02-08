@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669149609 source:e:\maha\sd iti\trials\ds\lab 2\selection sort\main.cpp
+	<iostream>
+
+1669230153 source:e:\maha\sd iti\trials\ds\lab 3\binary search recursive\main.cpp
+	<iostream>
+
+1669421947 source:e:\maha\sd iti\trials\ds\lab 3\binary search tree\main.cpp
+	<iostream>
+	<stdlib.h>
+
