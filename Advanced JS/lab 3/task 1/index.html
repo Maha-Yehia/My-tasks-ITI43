@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <input type="button" id="btnAbout" value="About">
+    <input type="button" id="btnGallery" value="Gallery">
+    <input type="button" id="btnServices" value="Services">
+    <input type="button" id="btnComplain" value="Complain">
+
+    <div id="myP">Story about snow man</div>
+    <div id="container">
+        <img src="left.png" alt="" id="movePicLeft">
+        <img src="1.jpg" alt="" class="active">
+        <img src="right.png" alt="" id="movePicRight">
+    </div>
+
+    <div id="list">
+        <ul>
+            <li>item#1</li>
+            <li>item#2</li>
+            <li>item#3</li>
+        </ul>
+    </div>
+
+    <div id="compPage">
+        <label for="">Name:</label>
+        <input type="text" id="name"><br>
+
+        <label for="">Email:</label>
+        <input type="email" id="email"><br>
+
+        <label for="">Phone:</label>
+        <input type="number" id="phone"><br> <br>
+
+        <label for="">Complain</label> <br>
+        <textarea name="" cols="60" rows="5" id="complainText"></textarea><br>
+        <button id="send">Send</button>
+    </div>
+
+    <div id="sendPage">
+        <p> Your complain is <span id="showComp"></span> </p>
+        <p> Your name is <span id="showName"></span> </p>
+        <p> Your email is <span id="showEmail"></span> </p>
+        <p> Your phone is <span id="showPhone"></span> </p>
+        <button id="backToEdit">Back To Edit</button>
+    </div>
+
+
+    <script src="Libraries/JqueryDev.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
