@@ -1,0 +1,94 @@
+input {
+    background-color: rgb(85, 85, 87);
+    border-color: rgb(92, 90, 90);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+    margin: 5px;
+    color: rgb(245, 232, 212);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(30, 29, 29);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(245, 232, 212);
+}
+
+#myP {
+    display: none;
+    font-size: 30px;
+    color: rgb(245, 232, 212);
+    margin-top: 50px;
+
+}
+
+#movePicRight {
+
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 23px;
+}
+
+#movePicLeft {
+
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 125px;
+
+}
+
+#list ul li {
+    background-color: rgb(85, 85, 87);
+    color: rgb(245, 232, 212);
+    border: 2px solid black;
+    margin: 1px;
+    width: 100px;
+    margin-left: 47.5%;
+    list-style: none;
+
+}
+
+#container {
+    display: none;
+    margin-top: 50px;
+}
+
+.active {
+
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+}
+
+#compPage {
+    display: none;
+    margin-top: 50px;
+    border: 3px solid black;
+}
+
+#sendPage {
+    display: none;
+    margin-top: 50px;
+    border: 3px solid black;
+}
+
+textarea {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(245, 232, 212);
+    background-color: rgb(85, 85, 87);
+}
+
+button {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#list {
+    display: none;
+}
