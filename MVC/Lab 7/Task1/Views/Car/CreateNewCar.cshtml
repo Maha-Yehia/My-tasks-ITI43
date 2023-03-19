@@ -1,0 +1,24 @@
+﻿@using Task1.Model
+@{
+    ViewBag.Title = "CreateNewCar";
+}
+
+<h2>CreateNewCar</h2>
+<form action="/Car/CreateNewCar" method="post">
+
+
+    <input type="text" name="num" value="@ViewBag.lastNum" /> <br />
+
+    <label>Enter color of the car</label>
+    <input type="text" name="color" /><br />
+
+    <label>Enter model of the car</label>
+    <input type="text" name="model" /><br />
+
+    <label>Enter manufacture of the car</label>
+    <input type="text" name="manufacture" />
+
+
+    <input type="submit" value="Save" />
+
+    </form>

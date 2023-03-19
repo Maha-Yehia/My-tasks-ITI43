@@ -1,0 +1,17 @@
+﻿@using WebApplication1.Models
+@{
+    ViewBag.Title = "EditCar";
+    Car editedCar = ViewBag.selectedCar; 
+
+}
+
+<h2>EditCar</h2>
+<form action="/Car/EditCar" method="post">
+
+    <input type="text" name="num" value="@editedCar.Num" />
+    <input type="text" name="color" value="@editedCar.Color" />
+    <input type="text" name="model" value="@editedCar.Model" />
+    <input type="text" name="manufacture" value="@editedCar.Manufacture" />
+
+    <input type="submit" value="Save" />
+</form>

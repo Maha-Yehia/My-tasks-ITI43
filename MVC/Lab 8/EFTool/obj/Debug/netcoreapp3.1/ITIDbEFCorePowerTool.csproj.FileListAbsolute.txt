@@ -1,0 +1,328 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\appsettings.json
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\efpt.config.json
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.runtimeconfig.dev.json
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Humanizer.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.MvcApplicationPartsAssemblyInfo.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\ITIDbEFCorePowerTool.StaticWebAssets.Manifest.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\ITIDbEFCorePowerTool.StaticWebAssets.Pack.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ITIDbEFCorePowerTool.Microsoft.AspNetCore.StaticWebAssets.props
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ITIDbEFCorePowerTool.props
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ITIDbEFCorePowerTool.props
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ITIDbEFCorePowerTool.props
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorTargetAssemblyInfo.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.csproj.CopyComplete
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.Views.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.Views.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorAssemblyInfo.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorAssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.TagHelpers.input.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.TagHelpers.output.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorCoreGenerate.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Create.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Delete.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Details.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Edit.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Index.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorTargetAssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.Views.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Create.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\libman.json
+H:\ITI SD SWA\SD(PD, SWA) 43\22-MVC\Day 8\D08 task\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\efpt.config.json
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\libman.json
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.exe
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.deps.json
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.runtimeconfig.json
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.runtimeconfig.dev.json
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.Views.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.Views.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.csproj.AssemblyReference.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.AssemblyInfoInputs.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.AssemblyInfo.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.csproj.CoreCompileInputs.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorAssemblyInfo.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorAssemblyInfo.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\ITIDbEFCorePowerTool.StaticWebAssets.Manifest.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\ITIDbEFCorePowerTool.StaticWebAssets.Pack.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ITIDbEFCorePowerTool.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ITIDbEFCorePowerTool.props
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ITIDbEFCorePowerTool.props
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ITIDbEFCorePowerTool.props
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.TagHelpers.input.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.TagHelpers.output.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorCoreGenerate.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Create.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Create.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Delete.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Details.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Edit.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Instructors\Index.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorTargetAssemblyInfo.cache
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.RazorTargetAssemblyInfo.cs
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.Views.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.csproj.CopyComplete
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.dll
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.pdb
+D:\ITI9month\MVC\Day8\ITIDbEFCorePowerTool\obj\Debug\netcoreapp3.1\ITIDbEFCorePowerTool.genruntimeconfig.cache

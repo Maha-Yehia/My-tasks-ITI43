@@ -1,0 +1,82 @@
+﻿@model IEnumerable<WebApplication2.Models.Instructor>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="display:inline-block">Index</h2>
+<form style="display:inline-block ; margin-left:50px" method="post">
+        @Html.DropDownList("id", new SelectList(ViewBag.depts, "Dept_Id", "Dept_Name"), htmlAttributes: new { @class = "form-control" })
+
+    <input type="submit" />
+</form>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ins_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ins_Degree)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Department.Dept_Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ins_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ins_Degree)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department.Dept_Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Ins_Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Ins_Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Ins_Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@helper listHelper(string[] str)
+{
+    <ol>
+        @foreach (var item in str)
+        {
+            <li>@item</li>
+        }
+    </ol>
+}
+
+@{
+    string[] myStr = { "C#", "C++", "JS", "MVS", "DB" };
+    string[] myStr2 = { "Maha", "Yehia", "Ekram", "Fahmy", "Assem" };
+
+}
+
+<div style="background-color:yellow ; display:inline-block ; width:200px ; padding:10px">
+    Courses list : @listHelper(myStr)
+
+</div>
+<div style="background-color: hotpink; display: inline-block; width: 200px; padding: 10px ">
+    My full name : @listHelper(myStr2)
+
+</div>

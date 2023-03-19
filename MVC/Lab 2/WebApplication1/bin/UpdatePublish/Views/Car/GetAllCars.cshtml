@@ -1,0 +1,65 @@
+﻿
+@using WebApplication1.Models
+@{
+    ViewBag.Title = "GetAllCars";
+    List<Car> myCars = ViewBag.cars;
+
+}
+
+<h2>GetAllCars</h2>
+
+<a href="/Car/CreateNewCar">Create New Car</a>
+
+<div>
+    <table>
+
+        <tr>
+            <th>Num</th>
+            <th> &nbsp; </th>
+            <th> &nbsp; </th>
+            <th> &nbsp; </th>
+            <th>Color</th>
+            <th> &nbsp; </th>
+            <th>Model</th>
+
+            <th> &nbsp; </th>
+            <th> &nbsp; </th>
+            <th> &nbsp; </th>
+            <th>Manufacture</th>
+
+            <th> &nbsp; </th>
+            <th> &nbsp; </th>
+            <th> &nbsp; </th>
+        </tr>
+
+        @{ foreach (var item in myCars)
+            {
+                <tr>
+                    <td>@item.Num</td>
+                    <td> &nbsp; </td>
+                    <td> &nbsp; </td>
+                    <td> &nbsp; </td>
+
+                    <td>@item.Color</td>
+                    <td> &nbsp; </td>
+                    <td>@item.Model</td>
+
+                    <td> &nbsp; </td>
+                    <td> &nbsp; </td>
+                    <td> &nbsp; </td>
+                    <td>@item.Manufacture</td>
+
+                    <td><a href="/Car/SelectCarById/@item.Num">Select Car</a></td>
+                    <td> &nbsp; </td>
+                    <td><a href="/Car/EditCar/@item.Num">Edit Car</a></td>
+                    <td> &nbsp; </td>
+                    <td><a href="/Car/DeleteCar/@item.Num">Delete Car</a></td>
+
+
+                </tr>
+            }
+
+        }
+
+    </table>
+</div>

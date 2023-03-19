@@ -1,0 +1,52 @@
+﻿@model ITIDbEFCorePowerTool.Models.Instructor
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Instructor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ins_Id" class="control-label"></label>
+                <input asp-for="Ins_Id" class="form-control" />
+                <span asp-validation-for="Ins_Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ins_Name" class="control-label"></label>
+                <input asp-for="Ins_Name" class="form-control" />
+                <span asp-validation-for="Ins_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ins_Degree" class="control-label"></label>
+                <input asp-for="Ins_Degree" class="form-control" />
+                <span asp-validation-for="Ins_Degree" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Salary" class="control-label"></label>
+                <input asp-for="Salary" class="form-control" />
+                <span asp-validation-for="Salary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dept_Id" class="control-label"></label>
+                <select asp-for="Dept_Id" class ="form-control" asp-items="ViewBag.Dept_Id"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

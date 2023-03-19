@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ITIModelStoreContainer" CdmEntityContainer="ITIEntities">
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="ITIModel.Department">
+        <MappingFragment StoreEntitySet="Department">
+          <ScalarProperty Name="Dept_Id" ColumnName="Dept_Id" />
+          <ScalarProperty Name="Dept_Name" ColumnName="Dept_Name" />
+          <ScalarProperty Name="Dept_Desc" ColumnName="Dept_Desc" />
+          <ScalarProperty Name="Dept_Location" ColumnName="Dept_Location" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Instructors">
+      <EntityTypeMapping TypeName="ITIModel.Instructor">
+        <MappingFragment StoreEntitySet="Instructor">
+          <ScalarProperty Name="Ins_Id" ColumnName="Ins_Id" />
+          <ScalarProperty Name="Ins_Name" ColumnName="Ins_Name" />
+          <ScalarProperty Name="Ins_Degree" ColumnName="Ins_Degree" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Dept_Id" ColumnName="Dept_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

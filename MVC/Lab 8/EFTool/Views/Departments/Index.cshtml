@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ITIDbEFCorePowerTool.Models.Department>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Dept_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dept_Desc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dept_Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manager_hiredate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dept_ManagerNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dept_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dept_Desc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dept_Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manager_hiredate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dept_ManagerNavigation.Ins_Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Dept_Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Dept_Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Dept_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

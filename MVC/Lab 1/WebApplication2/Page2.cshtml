@@ -1,0 +1,95 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body style="background-color:lightgray">
+    <div style="display:flex">
+        <div style="width:50%">
+            <form method="post">
+                <label>Choose backgroung image</label>
+                <br />
+                <select name="imageList" style="width:200px;">
+                    <option value="0.jpg">0</option>
+                    <option value="1.jpg">1</option>
+                    <option value="2.jpg">2</option>
+                    <option value="3.jpg">3</option>
+                    <option value="4.jpg">4</option>
+                    <option value="5.jpg">5</option>
+                    <option value="6.jpg">6</option>
+                    <option value="7.jpg">7</option>
+                    <option value="8.jpg">8</option>
+                    <option value="9.jpg">9</option>
+                </select>
+                <br /> <br />
+                <label>Choose your font color</label>
+                <br />
+                <select name="fontList" style="width:200px;">
+                    <option value="Black">Black</option>
+                    <option value="Red">Red</option>
+                    <option value="Blue">Blue</option>
+                    <option value="Green">Green</option>
+                    <option value="Pink">Pink</option>
+                    <option value="Purple">Purple</option>
+                </select>
+                <br /> <br /><br /> <br /><br /> <br /><br />
+                <hr />
+                <label>Choose a greeting type</label>
+                <br />
+                <input type="radio" value="Birthday" name="greeting" /> <label>Birthday</label>
+                <br />
+
+                <input type="radio" value="Get Well Soon" name="greeting" /> <label>Get Well Soon</label>
+                <br />
+                <input type="radio" value="Valentine" name="greeting" /> <label>Valentine</label>
+                <br />
+                <input type="radio" value="Congrats" name="greeting" /> <label>Congrats</label>
+
+                <br />
+                <br />
+
+                <input type="checkbox" name="addPic" />
+                <label>Add the picture</label>
+                <br />
+                <br />
+
+                <label>Enter the greeting message below :</label>
+                <br />
+                <textarea style="width:400px ; height:100px" name="txt"></textarea>
+                <br /><br />
+                <input type="submit" value="choose" style="width:400px;" />
+              
+            </form>
+        </div>
+        
+         
+
+       
+        @if (IsPost)
+        {
+            var imagePath = "/backgrounds/" + Request["imageList"];
+            var fontClr = Request["fontList"];
+            var greeting = Request["greeting"];
+            var txt = Request["txt"];
+            var myImgPath = "/images/" + @Request["greeting"] + ".gif";
+            <div style="background-image:url(@imagePath) ;  width:50% ; height:700px ">
+                <div style="padding:50px ; padding-left:200px">
+                    <h2 style="color:@fontClr">@greeting</h2>
+                    @if (Request["addPic"] == "on")
+                    {
+                        <img src="@myImgPath" style="width:200px ; height:200px" />
+
+                    }
+                    <h2 style="color:@fontClr">@txt</h2>
+           
+                </div>
+            </div> 
+        }
+
+    </div>
+</body>
+
+
+</html>

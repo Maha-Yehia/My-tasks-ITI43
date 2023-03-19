@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Task1
+build_property.RootNamespace = Task1
+build_property.ProjectDir = E:\MAHA\SD ITI\Trials\MVC\Lab 7\Task1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\MAHA\SD ITI\Trials\MVC\Lab 7\Task1
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/MAHA/SD ITI/Trials/MVC/Lab 7/Task1/Views/Car/CreateNewCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXENyZWF0ZU5ld0Nhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MAHA/SD ITI/Trials/MVC/Lab 7/Task1/Views/Car/DeleteCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERlbGV0ZUNhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MAHA/SD ITI/Trials/MVC/Lab 7/Task1/Views/Car/EditCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEVkaXRDYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MAHA/SD ITI/Trials/MVC/Lab 7/Task1/Views/Car/GetAllCars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEdldEFsbENhcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MAHA/SD ITI/Trials/MVC/Lab 7/Task1/Views/Car/SelectCarById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXFNlbGVjdENhckJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/MAHA/SD ITI/Trials/MVC/Lab 7/Task1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

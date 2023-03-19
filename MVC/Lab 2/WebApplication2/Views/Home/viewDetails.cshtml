@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "viewDetails";
+    var myID = ViewBag.id;
+    var myName = ViewBag.name;
+    var mySource = ViewBag.source;
+
+}
+
+
+<div class="jumbotron">
+    <h1>My MVC Application</h1> <br /><br /><br /><br />
+    <div style="background-color:white ;  padding:20px">
+        <h3>Show Details</h3><br /><br />
+
+        <p class="lead">Your ID is: @myID </p>
+        <p class="lead">Your Name is: @myName </p>
+        <img src="../images/@mySource" style="width:400px ; height:300px" /> <br /><br />
+    <a href="/Home/Index">Back to home</a>
+     
+    </div>
+</div>
+

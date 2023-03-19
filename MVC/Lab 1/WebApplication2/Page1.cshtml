@@ -1,0 +1,78 @@
+﻿@using WebApplication1 
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+    <form method="post">
+
+        <label>Name: </label>
+        <input name="name" type="text" />
+        <br />
+        <label>Birthdate</label>
+        <input name="birthDate" type="date" />
+        <br />
+        <button>Go</button>
+        <input type="checkbox" name="graduation" value="graduated" />
+        <label>IsGraduated</label>
+
+    </form>
+
+    <div>
+        @if (IsPost)
+
+        {
+            <h2> Hello @Request["name"]  </h2>
+            <h2> Your birthdate is :  @Request["birthDate"]  </h2>
+
+            if (Request["graduation"] == "graduated")
+            {
+                <h2>Yes, I am graduated</h2>
+            }
+            else
+            {
+                <h2>No, I am not graduated</h2>
+            }
+
+        }
+    </div>
+    <br />
+    <br />
+    <br />
+    @{
+        List<Product> products = new List<Product>()
+ {
+            new Product() { ID = 1, Name = "maha", Price = 100 },
+            new Product() { ID = 5, Name = "yehia", Price = 200 },
+            new Product() { ID = 7, Name = "ekram", Price = 300 },
+            new Product() { ID = 4, Name = "fahmy", Price = 400 },
+
+        };
+
+        WebGrid grid = new WebGrid(products);
+
+    }
+
+    @grid.GetHtml()
+
+   
+
+    @*@{
+        var myChart = new Chart(width: 600, height: 400)
+           .AddTitle("Employees")
+           .AddSeries(chartType: "column",
+              xValue: new[] { "Peter", "Andrew", "Julie", "Mary", "Dave" },
+              yValues: new[] { "2", "6", "4", "5", "3" })
+           .Write(); 
+
+
+    }*@
+   
+ 
+
+
+
+</body>
+</html>
