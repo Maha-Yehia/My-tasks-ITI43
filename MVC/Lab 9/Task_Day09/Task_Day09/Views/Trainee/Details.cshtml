@@ -1,0 +1,60 @@
+﻿@model Task_Day09.Models.Trainee
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Trainee</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TraineeName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TraineeName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Birthdate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Birthdate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TrTrack)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TrTrack.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.course)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.course.Topic)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.TraineeId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
