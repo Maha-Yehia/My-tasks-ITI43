@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <canvas id="canvas" width="700" height="500"></canvas>
+    <script>
+        
+        var canvas = document.getElementById("canvas");
+        var ctx = canvas.getContext("2d");
+        
+        var angle = 0;
+        var rotate = true;
+        ctx.fillStyle = "rgba(127,191,225,0.6)";
+        
+        var timer = setInterval( () => {
+            
+         if (rotate) {
+                ctx.save();
+                
+                ctx.translate(270, 270); 
+                ctx.rotate((angle * Math.PI) / 360);
+                ctx.translate(-200, -170); 
+
+                ctx.beginPath();
+                ctx.fillRect(200, 200, 50, 200);
+                ctx.closePath();
+
+                ctx.restore();
+                angle = angle - 45;
+
+                if(angle == -720) {
+                    ctx.clearRect(0,0,700, 500);
+                    rotate = false
+
+                }
+            
+            }
+        else{
+
+            console.log(angle)
+            ctx.save();
+            ctx.translate(270, 270); 
+            ctx.rotate((angle * Math.PI) / 360);
+            ctx.translate(-200, -170); 
+
+            ctx.beginPath();
+            ctx.fillRect(200, 200, 50, 200);
+            ctx.closePath();
+
+            ctx.restore();
+            angle = angle + 45;
+
+            if(angle == 45) {
+                ctx.clearRect(0,0,700, 500);
+                rotate = true;
+            }
+        }
+
+    },100)
+    
+    </script>
+</body>
+</html>

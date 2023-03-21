@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="cookielib.js"></script>
+    <script src="usability.js"></script>
+</head>
+<body>
+    <label>Enter Your Name</label>
+    <input type="text" id="Name" name="Name"/>
+    <br/>
+
+    <label>Enter Your Age</label>
+    <input type="number" id="Age" name="Age"/>
+
+    <br/>
+    
+    <p>Enter Your Gender</p>
+    <input type="radio" name="Gender" value="male" id="male">
+    <label for="male">
+        <img src="1.jpg"/>
+    </label>
+    <input type="radio" name="Gender" value="female" id="female">
+    <label for="female">
+        <img src="2.jpg"/>
+    </label>
+    <br/>
+    
+    <label>Select your favorite color: </label>
+    <select id="Color" name="Color">
+        <option value="red">Red</option>
+        <option value="blue">Blue</option>
+        <option value="green">Greed</option>
+    </select>
+
+    <br/>
+    <button id="register" onclick="submitData()">Register</button>
+    
+</body>
+</html>

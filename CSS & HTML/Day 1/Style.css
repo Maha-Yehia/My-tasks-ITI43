@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(204, 204, 250);
+}
+
+div {
+    margin-top: auto;
+    text-align: center;
+}
+
+.intro {
+    color: rgb(218, 19, 92);
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+span {
+    font-size: 10px;
+}
+
+
+.copyright {
+    font-size: 15px;
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}

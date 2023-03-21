@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        p {
+            border: 2px;
+            border-style: solid;
+            font-size: larger;
+            padding: 5px;
+
+        }
+
+        td {
+            vertical-align: top;
+            font-size: 20px;
+
+
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <p id="main">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam itaque nam, consequuntur molestias reprehenderit
+        cum
+        quis! Laborum, dolore eligendi in asperiores rem quo tenetur dignissimos dolor illum ut minus ullam.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium quam distinctio aut ea. Voluptates numquam
+        hic
+        delectus optio autem tempora quasi corporis vel. Dolore, non assumenda amet ratione harum iste!</p>
+
+    <br><br>
+    <table border="2px">
+        <tr>
+            <td>Font Family <br><br>
+                <input type="radio" name="font" onclick="font('arial')"> <label for="">ariel</label><br>
+                <input type="radio" name="font" onclick="font('courier')"> <label for="">courier</label><br>
+                <input type="radio" name="font" onclick="font('georgia')"> <label for="">georgia</label><br>
+                <input type="radio" name="font" onclick="font('impact')"> <label for="">impact</label><br>
+                <input type="radio" name="font" onclick="font('times new roman')"> <label for="">times new
+                    roman</label><br>
+                <input type="radio" name="font" onclick="font('verdana')"> <label for="">verdana</label><br>
+            </td>
+            <td>Text Align <br><br>
+                <input type="radio" name="align" onclick="toAlign('left')"> <label for="">left</label><br>
+                <input type="radio" name="align" onclick="toAlign('center')"> <label for="">center</label><br>
+                <input type="radio" name="align" onclick="toAlign('right')"> <label for="">right</label><br>
+                <input type="radio" name="align" onclick="toAlign('justify')"> <label for="">justify</label><br>
+            </td>
+            <td>Line Height<br><br>
+                <input type="radio" name="height" onclick="toheight('normal')"><label for="">normal</label><br>
+                <input type="radio" name="height" onclick="toheight('10px')"> <label for="">10px</label><br>
+                <input type="radio" name="height" onclick="toheight('15px')"> <label for="">15px</label><br>
+                <input type="radio" name="height" onclick="toheight('1.5')"> <label for="">1.5</label><br>
+            </td>
+            <td>Letter Spacing<br><br>
+                <input type="radio" name="spacing" onclick="spacing('normal')"> <label for="">normal</label><br>
+                <input type="radio" name="spacing" onclick="spacing('-1px')"> <label for="">-1px</label><br>
+                <input type="radio" name="spacing" onclick="spacing('2px')"> <label for="">2px</label><br>
+                <input type="radio" name="spacing" onclick="spacing('3px')"> <label for="">3px</label><br>
+
+            </td>
+            <td>Text Indent<br><br>
+                <input type="radio" name="indent" onclick="indent('0px')"> <label for="">0px</label><br>
+                <input type="radio" name="indent" onclick="indent('5px')"> <label for="">5px</label><br>
+                <input type="radio" name="indent" onclick="indent('15px')"> <label for="">15px</label><br>
+                <input type="radio" name="indent" onclick="indent('25px')"> <label for="">25px</label><br>
+            </td>
+            <td>Text Transform<br><br>
+                <input type="radio" name="tran" onclick="transform('none')"> <label for="">none</label><br>
+                <input type="radio" name="tran" onclick="transform('capitalize')"> <label for="">capitalize</label><br>
+                <input type="radio" name="tran" onclick="transform('uppercase')"> <label for="">uppercase</label><br>
+                <input type="radio" name="tran" onclick="transform('lowercase')"> <label for="">lowercase</label><br>
+            </td>
+            <td>Text Decoration<br><br>
+                <input type="radio" name="dec" onclick="decoration('none')"> <label for="">none</label><br>
+                <input type="radio" name="dec" onclick="decoration('line-through')"> <label
+                    for="">line-through</label><br>
+                <input type="radio" name="dec" onclick="decoration('overline')"> <label for="">overline</label><br>
+                <input type="radio" name="dec" onclick="decoration('underline')"> <label for="">underline</label><br>
+            </td>
+
+            <td>Text Border<br><br>
+                <input type="radio" name="tborder" onclick="bStyle('none')"> <label for="">none</label><br>
+                <input type="radio" name="tborder" onclick="bStyle('dotted')"> <label for="">dotted</label><br>
+                <input type="radio" name="tborder" onclick="bStyle('double')"> <label for="">double</label><br>
+                <input type="radio" name="tborder" onclick="bStyle('groove')"> <label for="">groove</label><br>
+                <input type="radio" name="tborder" onclick="bStyle('dashed')"> <label for="">dashed</label><br>
+                <input type="radio" name="tborder" onclick="bStyle('inset')"> <label for="">inset</label><br>
+                <input type="radio" name="tborder" onclick="bStyle('solid')"> <label for="">solid</label><br>
+                <input type="radio" name="tborder" onclick="bStyle('ridge')"> <label for="">ridge</label><br>
+            </td>
+
+            <td>Border Color<br><br>
+                <input type="radio" name="tclr" onclick="bClr('none')"> <label for="">none</label><br>
+                <input type="radio" name="tclr" onclick="bClr('red')"> <label for="">red</label><br>
+                <input type="radio" name="tclr" onclick="bClr('pink')"> <label for="">pink</label><br>
+                <input type="radio" name="tclr" onclick="bClr('green')"> <label for="">green</label><br>
+                <input type="radio" name="tclr" onclick="bClr('blue')"> <label for="">blue</label><br>
+                <input type="radio" name="tclr" onclick="bClr('yellow')"> <label for="">yellow</label><br>
+                <input type="radio" name="tclr" onclick="bClr('purple')"> <label for="">purple</label><br>
+
+            </td>
+
+        </tr>
+
+    </table>
+
+    <script src=" script.js"></script>
+</body>
+
+</html>

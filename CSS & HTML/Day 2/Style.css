@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(247, 219, 224);
+    font-size: xx-large;
+}
+
+div {
+    margin-top: auto;
+    text-align: center;
+}
+
+.intro {
+    color: rgb(218, 19, 92);
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+span {
+    font-size: 10px;
+}
+
+
+.copyright {
+    font-size: 15px;
+    text-align: center;
+}
+
+.right {
+
+    float: right;
+
+}
+
+table {
+    margin-left: 30%;
+    margin-top: 50px;
+    width: 600px;
+    height: 450px;
+    border: 20px rgb(194, 190, 190) outset;
+}
+
+input[type=submit] {
+    font-size: x-large;
+}
+
+input[type=text] {
+    font-size: 25px;
+}
+
+input[type=password] {
+    font-size: 25px;
+}
+
+input[type=date] {
+    font-size: 25px;
+}
+
+td {
+    border: 3PX gray groove;
+    padding: 5px;
+    margin: 5px;
+}
+
+fieldset {
+    width: 60%;
+
+}
+
+select {
+    font-size: x-large;
+}
+
+input[type=button] {
+    font-size: x-large;
+}
