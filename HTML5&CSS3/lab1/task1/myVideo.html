@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Untitled Document</title>
+    <style>
+        #timeRange {
+            width: 450px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <video src="frozen.mp4" width="550" height="350" poster="image/frozen.jpg" controls></video>
+    <br>
+    <input type="button" value="Play" id="playBtn">
+    <input type="button" value="Stop" id="stopBtn">
+    <input type="range" min="0" max="110" onchange="changeTime(this.value)" value="0" id="timeRange">
+    <span id="time">00:00</span>
+    <span>/1:50</span>
+    <br> <br>
+    <input type="button" value="<<" onclick="fastBack()">
+    <input type="button" value="<" onclick="back()">
+    <input type="button" value=">" onclick="next()">
+    <input type="button" value=">>" onclick="fastNext()">
+    <span>Volume</span>
+    <input type="range" min="0" max="1" value="0.2" step="0.01" onchange="changeVolume(this.value)">
+    <input type="button" value="Mute" id="muteBtn">
+    <input type="button" value="Unmute" id="unmuteBtn">
+    <label for="">Speed</label>
+    <input type="range" min="0" max="5" step="0.2" value="1" onchange="changeSpeed(this.value)">
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

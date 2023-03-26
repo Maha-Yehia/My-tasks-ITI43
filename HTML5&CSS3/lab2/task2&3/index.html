@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    @keyframes anim {
+        0% {
+            box-shadow: 0px 0px 20px blue;
+            background-color: rgb(194, 232, 232);
+        }
+
+        100% {
+            background-color: pink;
+            box-shadow: -10px -10px 20px blue;
+
+        }
+    }
+
+    img:hover {
+        opacity: 0;
+        transition: all 5s;
+    }
+
+    img {
+        opacity: 1;
+        transition: all 5s;
+    }
+
+    #container {
+        border: 3px outset rgb(92, 92, 223);
+        background-color: rgb(166, 213, 213);
+        border-radius: 25px;
+        width: 500px;
+        height: 60px;
+        align-items: center;
+        text-align: center;
+        font-size: 40px;
+        display: inline-flex;
+        align-self: center;
+        margin-left: 190px;
+        transition: all 1s;
+
+    }
+
+    #container p {
+        margin-left: 140px;
+    }
+
+    #container:hover {
+        background-color: pink;
+        box-shadow: -10px -10px 20px blue;
+        transition: all 1s;
+        animation-name: anim;
+        animation-duration: 1s;
+        animation-delay: 1s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate-reverse;
+
+    }
+
+    /* button {
+        font-size: 40px;
+        border: 3px outset rgb(92, 92, 223);
+        background-color: rgb(194, 232, 232);
+        border-radius: 25px;
+        width: 500px;
+        height: 60px;
+        transition: all 2s;
+    }
+
+    button:hover {
+        background-color: pink;
+        box-shadow: -10px -10px 20px blue;
+        transition: all 2s;
+    } */
+</style>
+
+
+<body>
+
+    <img src="WhatsApp Image 2023-01-05 at 2.38.51 PM.jpeg" alt="">
+
+    <br><br><br><br>
+
+    <div id="container">
+        <p>Hover to blink</p>
+    </div>
+    <!-- <br><br>
+    <button>Hover to blink</button> -->
+
+
+</body>
+
+</html>

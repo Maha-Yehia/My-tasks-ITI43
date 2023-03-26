@@ -1,0 +1,13 @@
+[data-myattr]{
+    text-align: center;
+    
+    
+}
+[data-myattr="r"]{
+    color:red;
+    
+}
+[data-myattr="g"]{
+    color:green;
+    
+}
