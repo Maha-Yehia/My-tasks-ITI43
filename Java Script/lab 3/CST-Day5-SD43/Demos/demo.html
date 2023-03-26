@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Untitled Document</title>
+
+</head>
+
+<body>
+   <form>
+       <input type="text" name="usrnm">
+       <input type="submit" value="send">
+       
+       
+       
+   </form>
+    <input type="button" value="openWin" onclick="openWin()">
+    <input type="button" value="closeWin" onclick="closeWin()">
+    <input type="button" value="checkWin" onclick="checkWin()">
+    <input type="button" value="moveWin" onclick="moveWin()">
+    <input type="button" value="resizeWin" onclick="resizeWin()">
+    <input type="button" value="start" onclick="startCout()">
+    <input type="button" value="stop" onclick="stopCount()">
+    <script>
+        var timerID
+
+        
+        function startCout() {
+            timerID = setInterval(function() {//anonymous function// callback function
+                alert('hello');
+                console.log('abc');
+
+            }, 2000) //
+        }
+
+        var timer;
+        function fun(){
+            alert("abc");
+            //console.log("xyz");
+            timer=setTimeout(fun,5000);
+            console.log("dfghjk");
+        }
+        fun()
+        console.log("ay 7aga");
+        
+        var t=setInterval(function(){
+            console.log("timerInterval as Timeout");
+            clearInterval(t);
+            
+            
+        },2000);
+        /*
+        |-----|-----|----|----|
+            |-----|----|----|----|
+               timer=|----|----|----
+*/
+
+
+        function stopCount() {
+            clearInterval(timerID)
+        }
+
+
+        //       setTimeout(function() {}, ms) //
+
+
+        var win;
+
+        function resizeWin() {
+            win.resizeBy(200, 200);
+            win.focus();
+
+
+        }
+
+        function moveWin() {
+            win.moveBy(150, 150)
+            win.focus()
+            //win.moveBy()
+
+        }
+
+        function checkWin() {
+            if (win.closed)
+                console.log("child win closed");
+            else
+                console.log("child win still open");
+
+
+        }
+
+        function closeWin() {
+            win.close();
+        }
+
+        function openWin() {
+            //if()
+            win = open("childWin.html", "", "width=150,height=150");
+
+
+        }
+    </script>
+</body></html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Untitled Document</title>
+
+</head>
+
+<body>
+    <input type="text" id="txt1">
+    <input type="text" id="txt2">
+    <input type="button" id="btn1" value="save Info">
+    <div id="div1"></div>
+    <script>
+        document.getElementById("btn1").onclick = function() {
+            var today = new Date();
+            today.setMonth(today.getMonth() + 1);
+            // var usrdata=document.getElementById("txt1").value
+            // var encData=encrypt(usrdata)
+            //
+
+            document.cookie = "userName=" + document.getElementById("txt1").value + ";expires=" + today;
+            document.cookie = "userDept=" + document.getElementById("txt2").value;
+            document.cookie = "userAge=9;expires=" + today;//
+            
+            setTimeout(function() {
+                document.cookie = "userAge=;expires=9/9/2009";//delete
+
+            }, 1000)
+
+
+        }
+
+    </script>
+</body>
+
+</html>
