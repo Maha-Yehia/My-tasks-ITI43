@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666306268 source:e:\maha\sd iti\trials\day 7\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
