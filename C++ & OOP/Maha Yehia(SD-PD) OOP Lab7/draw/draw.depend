@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1667339903 source:e:\maha\sd iti\trials\c++ & oop\lab5\draw\main.cpp
+	<iostream>
+	"E:\MAHA\SD ITI\Programs\Code Blocks\MinGW\include\graphics.h"
+	<conio.h>
+
+1667331985 e:\maha\sd iti\programs\code blocks\mingw\include\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
+1667409690 source:e:\maha\sd iti\trials\c++ & oop\lab6\draw\main.cpp
+	<iostream>
+	"E:\MAHA\SD ITI\Programs\Code Blocks\MinGW\include\graphics.h"
+	<conio.h>
+
+1667507875 source:e:\maha\sd iti\trials\c++ & oop\lab7\draw\main.cpp
+	<iostream>
+	"E:\MAHA\SD ITI\Programs\Code Blocks\MinGW\include\graphics.h"
+	<conio.h>
+
