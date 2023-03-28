@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7J3txZWYTKAHWLlcwdgkyL+q9Y0OWvTdwIdYC27n+Yc8xbfwd2fd4zIK5Lq6pONjfYVeGtWtEX/NDwPfbMnRQ==",
+  "success": true,
+  "projectFilePath": "D:\\ITI\\Intake43\\Smart\\WPF\\Day3\\WPFDay03\\WPFDay03\\WPFDay03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nada\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
