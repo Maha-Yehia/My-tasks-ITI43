@@ -1,0 +1,4 @@
+the result of adding is 9
+the result of subtraction is -1
+the result of division is 0.8
+the result of multiplication is 20

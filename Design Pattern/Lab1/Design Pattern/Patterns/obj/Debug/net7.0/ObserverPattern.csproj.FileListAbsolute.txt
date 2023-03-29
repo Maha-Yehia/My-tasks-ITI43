@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\bin\Debug\net7.0\ObserverPattern.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\bin\Debug\net7.0\ObserverPattern.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\bin\Debug\net7.0\ObserverPattern.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\bin\Debug\net7.0\ObserverPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\bin\Debug\net7.0\ObserverPattern.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\refint\ObserverPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ObserverPattern.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\Patterns\obj\Debug\net7.0\ref\ObserverPattern.dll

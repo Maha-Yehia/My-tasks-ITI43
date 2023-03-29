@@ -1,0 +1,30 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Design Pattern\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll

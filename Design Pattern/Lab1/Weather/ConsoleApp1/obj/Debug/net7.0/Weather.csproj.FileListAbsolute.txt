@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\bin\Debug\net7.0\Weather.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\bin\Debug\net7.0\Weather.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\bin\Debug\net7.0\Weather.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\bin\Debug\net7.0\Weather.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\bin\Debug\net7.0\Weather.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\refint\Weather.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\Weather.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\ConsoleApp1\obj\Debug\net7.0\ref\Weather.dll

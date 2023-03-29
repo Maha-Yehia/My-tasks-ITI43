@@ -1,0 +1,62 @@
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\UI.exe
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\UI.deps.json
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\UI.runtimeconfig.json
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\UI.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\UI.pdb
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\bussiness logic tear.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\Data access layer.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\bussiness logic tear.pdb
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\Data access layer.pdb
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\Data access layer.dll.config
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.AssemblyReference.cache
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\tiers_application.Form1.resources
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.GenerateResource.cache
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.AssemblyInfoInputs.cache
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.AssemblyInfo.cs
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.CoreCompileInputs.cache
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.CopyComplete
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\refint\UI.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.pdb
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\UI.genruntimeconfig.cache
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\ref\UI.dll
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\bin\Debug\net7.0-windows\UI.dll.config
+D:\ITI\Entity frameWork\Ado.net\day2\tasks\tiers application\tiers application\obj\Debug\net7.0-windows\tiers_application.updateForm.resources
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\UI.exe
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\UI.dll.config
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\UI.deps.json
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\UI.runtimeconfig.json
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\UI.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\UI.pdb
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\bussiness logic tear.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\Data access layer.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\bussiness logic tear.pdb
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\Data access layer.pdb
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\bin\Debug\net7.0-windows\Data access layer.dll.config
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.AssemblyReference.cache
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\tiers_application.Form1.resources
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\tiers_application.updateForm.resources
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.GenerateResource.cache
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.AssemblyInfoInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.AssemblyInfo.cs
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.CoreCompileInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.csproj.CopyComplete
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\refint\UI.dll
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.pdb
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\UI.genruntimeconfig.cache
+E:\MAHA\SD ITI\Trials\C#\Day13\tiers application\tiers application\obj\Debug\net7.0-windows\ref\UI.dll

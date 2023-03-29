@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\bin\Debug\net7.0\Patterns.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\bin\Debug\net7.0\Patterns.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\bin\Debug\net7.0\Patterns.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\bin\Debug\net7.0\Patterns.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\bin\Debug\net7.0\Patterns.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\refint\Patterns.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\Patterns.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\21-Design Pattern\Day 1\D01 Task\Patterns\obj\Debug\net7.0\ref\Patterns.dll
