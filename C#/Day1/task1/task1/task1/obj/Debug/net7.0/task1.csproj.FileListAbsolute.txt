@@ -1,0 +1,15 @@
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\bin\Debug\net7.0\task1.exe
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\bin\Debug\net7.0\task1.deps.json
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\bin\Debug\net7.0\task1.runtimeconfig.json
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\bin\Debug\net7.0\task1.dll
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\bin\Debug\net7.0\task1.pdb
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.csproj.AssemblyReference.cache
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.dll
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\refint\task1.dll
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.pdb
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\task1.genruntimeconfig.cache
+E:\MAHA\SD ITI\Trials\C#\Day1\task1\task1\task1\obj\Debug\net7.0\ref\task1.dll

@@ -1,0 +1,34 @@
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\MAHA\SD ITI\Trials\WPF\Day 3\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\bin\Debug\net7.0-windows\WinFormsApp1.exe
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\bin\Debug\net7.0-windows\WinFormsApp1.dll
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.dll
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Rect\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d1ff7fe-6f58-4439-972c-a84f3357ba0d": {
+      "ProjectGuid": "9d1ff7fe-6f58-4439-972c-a84f3357ba0d",
+      "DisplayName": "ConsoleApp10",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

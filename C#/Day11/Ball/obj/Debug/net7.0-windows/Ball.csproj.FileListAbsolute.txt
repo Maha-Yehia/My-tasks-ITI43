@@ -1,0 +1,17 @@
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\bin\Debug\net7.0-windows\Ball.exe
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\bin\Debug\net7.0-windows\Ball.deps.json
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\bin\Debug\net7.0-windows\Ball.runtimeconfig.json
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\bin\Debug\net7.0-windows\Ball.dll
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\bin\Debug\net7.0-windows\Ball.pdb
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.csproj.AssemblyReference.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.Form1.resources
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.csproj.GenerateResource.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.AssemblyInfoInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.AssemblyInfo.cs
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.csproj.CoreCompileInputs.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.dll
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\refint\Ball.dll
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.pdb
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\Ball.genruntimeconfig.cache
+E:\MAHA\SD ITI\Trials\C#\Day11\Ball\obj\Debug\net7.0-windows\ref\Ball.dll

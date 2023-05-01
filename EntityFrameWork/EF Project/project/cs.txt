@@ -1,0 +1,32 @@
+ private void myTextBox1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (string.IsNullOrEmpty(myTextBox1.Text))
+            {
+                myPlaceHolder1.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                myPlaceHolder1.Visibility = Visibility.Hidden;
+            }
+        }
+      
+        private void myTextBox2_TextChanged(object sender, RoutedEventArgs e)
+        {
+            if (string.IsNullOrEmpty(myTextBox2.Password))
+            {
+                myPlaceHolder2.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                myPlaceHolder2.Visibility = Visibility.Hidden;
+            }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //FrontEnd front = new FrontEnd();
+            this.Visibility= Visibility.Hidden;
+            //front.Show();
+        }
+    }
+}

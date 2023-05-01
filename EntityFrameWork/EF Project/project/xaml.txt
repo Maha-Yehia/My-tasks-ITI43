@@ -1,0 +1,9 @@
+ <Grid Width="600" Margin="0,16,0,-16">
+        <TextBox HorizontalAlignment="Center" Margin="0,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" x:Name="myTextBox1" TextChanged="myTextBox1_TextChanged" Background="#FFEAE5EA" Foreground="#FF868585" FontSize="16" Height="36"/>
+        <PasswordBox HorizontalAlignment="Center"  VerticalAlignment="Center" Width="194" x:Name="myTextBox2" PasswordChanged="myTextBox2_TextChanged" Background="#FFEAE5EA" Foreground="#FF868585" FontSize="16" Height="37" MaxLength="25" PasswordChar="*" />
+        <Button Content="Sign In" HorizontalAlignment="Center" Margin="0,279,0,0" VerticalAlignment="Top" Width="88" FontSize="14" Click="Button_Click"/>
+        <Label Content="Login" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="118" Height="47" FontSize="20"/>
+        <Label x:Name="myPlaceHolder1" Content="Username" HorizontalAlignment="Left" Margin="203,135,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.695,2.413"/>
+        <Label x:Name="myPlaceHolder2" Content="Password" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="207,0,0,0" Width="59"/>
+
+    </Grid>
