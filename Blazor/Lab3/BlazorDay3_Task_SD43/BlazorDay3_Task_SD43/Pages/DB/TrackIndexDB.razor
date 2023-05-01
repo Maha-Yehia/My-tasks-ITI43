@@ -1,0 +1,49 @@
+﻿@page "/trackindexdb"
+<h3>TrackIndex</h3>
+
+
+@if(StaticLists.TrackList.Count==0)
+{
+    <p>Loading....................</p>
+}
+else
+{
+    <a href="@("trackcreate")" class="btn btn-outline-success">Create New</a>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+                <th>Track Id</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>&ensp;</th>
+                <th>&ensp;</th>
+                <th>&ensp;</th>
+            </tr>
+        
+        </thead>
+        <tbody>
+            @foreach (var item in StaticLists.TrackList)
+            {
+                <tr>
+                    <td>@item.TrackId</td>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td><a class="btn btn-outline-primary" href="@($"trackedit/{item.TrackId}")">Edit</a></td>
+                    <td><a class="btn btn-outline-dark" href="@($"trackdetails/{item.TrackId}")">Details</a></td>
+                    <td><a class="btn btn-outline-danger" href="@($"trackdelete/{item.TrackId}")">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+
+
+
+
+@code {
+
+
+
+}

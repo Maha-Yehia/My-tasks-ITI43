@@ -1,0 +1,73 @@
+﻿@page "/traineedetailsdb/{id:int}"
+<h3>TraineeDetails</h3>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    [Inject]
+    public ITraineeService traineeService { get; set; }
+    [Inject]
+    public ITrackService trackservice { get; set; }
+    public Trainee? CurrentTrainee { get; set; }
+
+    private Track current;
+    protected async override Task OnInitializedAsync()
+    {
+
+        CurrentTrainee = await traineeService.GetTraineeDetails(id);
+        current = await trackservice.GetTrackDetails((int)CurrentTrainee.TrackId);
+    }
+}
+@if(CurrentTrainee!=null)
+{
+    
+
+<div class="form-group row">
+     <label class="col-form-label">Trainee Id </label>
+    <input class="form-control" disabled value="@CurrentTrainee.TraineeId" />
+ </div>
+<div class="form-group row">
+    <label class="col-form-label">Name </label>
+    <input class="form-control" disabled value="@CurrentTrainee.Name" />
+</div>
+<div class="form-group row">
+    <label class="col-form-label">Gender </label>
+    <input class="form-control" disabled value="@CurrentTrainee.Gender" />
+</div>
+<div class="form-group row">
+    <label class="col-form-label">Email </label>
+    <input class="form-control" disabled value="@CurrentTrainee.Email" />
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label">Mobile no </label>
+    <input class="form-control" disabled value="@CurrentTrainee.MobileNo" />
+</div>
+<div class="form-group row">
+    <label class="col-form-label">Birthdate </label>
+    <input class="form-control" disabled value="@CurrentTrainee.Birthdate" />
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label">IsGraduated </label>
+    <label  class="form-control disabled" >@CurrentTrainee.IsGraduated</label>
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label">TrackId </label>
+    <input class="form-control" disabled value="@CurrentTrainee.TrackId" />
+</div>
+
+<div class="form-group row">
+    <label class="col-form-label">Track name </label>
+    <input class="form-control" disabled value="@current.Name" />
+</div>
+<a class="btn btn-primary my-4" href="traineeindexdb"> back to list</a>
+    <a class="btn btn-success my-4" href="@($"traineeeditdb/{id}")"> Edit</a>
+}
+else
+{
+    <p>Loading .......................</p>
+}
+
+

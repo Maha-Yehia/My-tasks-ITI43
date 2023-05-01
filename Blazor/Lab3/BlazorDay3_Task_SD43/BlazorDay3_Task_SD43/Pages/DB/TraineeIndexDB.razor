@@ -1,0 +1,57 @@
+﻿@page "/traineeindexdb"
+<h3>TraineeIndex</h3>
+@code{
+    IEnumerable<Trainee> allTrainee;
+    [Inject]
+    public ITraineeService traineeDataService { get; set; }
+    protected async override Task OnInitializedAsync()
+    {
+        allTrainee =await traineeDataService.GetAllTrainee();
+        
+    }
+}
+@if (allTrainee ==null)
+{
+    <p>Loading....................</p>
+}
+else
+{
+    <a href="@("traineecreatedb")" class="btn btn-outline-success">Create New</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Trainee Id</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Email</th>
+                <th>MobileNo</th>
+                <th>Birthdate</th>
+                <th>IsGraduated</th>
+                <th>TrackId</th>
+                <th>&ensp;</th>
+                <th>&ensp;</th>
+                <th>&ensp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in allTrainee)
+            {
+                <tr>
+                    <td>@item.TraineeId</td>
+                    <td>@item.Name</td>
+                    <td>@item.Gender</td>
+                    <td>@item.Email</td>
+                    <td>@item.MobileNo</td>
+                    <td>@item.Birthdate</td>
+                    <td>@item.IsGraduated</td>
+                    <td>@item.TrackId</td>
+                    <td><a class="btn btn-outline-primary" href="@($"traineeeditdb/{item.TraineeId}")">Edit</a></td>
+                    <td><a class="btn btn-outline-dark" href="@($"traineedetailsdb/{item.TraineeId}")">Details</a></td>
+                    <td><a class="btn btn-outline-danger" href="@($"traineedeletedb/{item.TraineeId}")">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+

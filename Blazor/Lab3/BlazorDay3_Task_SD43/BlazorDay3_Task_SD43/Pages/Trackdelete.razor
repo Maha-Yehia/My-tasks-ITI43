@@ -1,0 +1,29 @@
+﻿@page "/trackdelete/{id:int}"
+@inject NavigationManager _NavigationManager
+@code {
+
+    [Parameter]
+    public int id { get; set; }
+
+    public bool Deleted { get; set; } = false;
+    public void DeleteTrack()
+    {
+
+        var currentTrack = StaticLists.TrackList.FirstOrDefault(t => t.TrackId == id);
+        Deleted = StaticLists.TrackList.Remove(currentTrack);
+        if (Deleted)
+            _NavigationManager.NavigateTo("/trackindex");
+    }
+}
+<h3>Trackdelete</h3>
+
+<h1 class="text-danger"> Are you sure you want to delete this track @id !!!</h1>
+
+<button class="btn btn-danger my-3" @onclick="DeleteTrack"> Confirm Delete</button>
+<NavLink class="btn btn-success my-3" href="trackindex"> 
+    Back to list
+</NavLink>
+
+
+
+

@@ -1,0 +1,26 @@
+﻿@page "/traineedelete/{TraineeId:int}"
+
+@code
+{
+    [Parameter]
+    public int TraineeID { get; set; }
+
+    public Trainee delTrainee { get; set; }
+    public string name { get; set; }
+
+    [Inject]
+    public ITraineeDataService traineeDataService { get; set; }
+
+
+    protected async override Task OnInitializedAsync()
+    {
+        delTrainee = await traineeDataService.GetTraineeDetails(TraineeID);
+        name = delTrainee.Name;
+        await traineeDataService.DeleteTrainee(TraineeID);
+    }
+}
+
+<div class="alert-danger">
+    <h3>Trainee @name Was Deleted Successfully!!!! <a href="/getalltrainees">Back to List</a> </h3>
+</div>
+

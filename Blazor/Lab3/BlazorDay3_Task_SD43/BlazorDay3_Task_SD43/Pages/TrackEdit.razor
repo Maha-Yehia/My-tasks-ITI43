@@ -1,0 +1,58 @@
+﻿@page "/trackedit/{id:int}"
+<h3>TrackDelete</h3>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    public Track? currentTrack { get; set; }
+    public bool saved { get; set; }
+    protected override Task OnInitializedAsync()
+    {
+        saved = false;
+        currentTrack = StaticLists.TrackList.FirstOrDefault(t => t.TrackId == id);
+        return base.OnInitializedAsync();
+    }
+    public void HandleValidSubmit()
+    {
+        var editTrack = StaticLists.TrackList.FirstOrDefault(t => t.TrackId == id);
+        editTrack.Name = currentTrack.Name;
+        editTrack.Description = currentTrack.Description;
+        saved = true;    
+    }
+    public void HandleInvalidSubmit()
+    {
+        saved = false;    
+    }
+}
+
+@if(!saved)
+{
+    
+
+<EditForm Model="@currentTrack" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="HandleInvalidSubmit" >
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <ValidationSummary></ValidationSummary>
+    <div class="form-group">
+        <label for="trackname"> Name</label>
+        <InputText id="trackname" class="form-control" @bind-Value=@currentTrack.Name></InputText>
+        <ValidationMessage For="@(()=>currentTrack.Name)"></ValidationMessage>
+    </div>
+    <div class="form-group">
+        <label for="trackdes"> description</label>
+        <InputText id="trackdes" class="form-control" @bind-Value=@currentTrack.Description></InputText>
+        <ValidationMessage For="@(()=>currentTrack.Description)"></ValidationMessage>
+    </div>
+
+
+        <button type="submit"  class="btn btn-primary my-3">Update Track</button>
+    </EditForm>
+}
+else
+{
+    <div class="alert-success">
+        Track Saved Successfully......
+    </div>
+
+     <a class="btn btn-primary my-3" href="/trackindex"> Back to list</a>
+}

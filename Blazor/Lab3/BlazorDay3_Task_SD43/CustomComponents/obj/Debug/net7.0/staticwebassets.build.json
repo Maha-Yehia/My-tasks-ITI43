@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "udFKkx4X9D5t0f40Ml8x9TsQiig22U+049ve67GITew=",
+  "Source": "CustomComponents",
+  "BasePath": "_content/CustomComponents",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CustomComponents\\wwwroot",
+      "Source": "CustomComponents",
+      "ContentRoot": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\wwwroot\\",
+      "BasePath": "_content/CustomComponents",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CustomComponents.styles.css",
+      "SourceId": "CustomComponents",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "CustomComponents.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CustomComponents.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CustomComponents.bundle.scp.css",
+      "SourceId": "CustomComponents",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "CustomComponents.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CustomComponents.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\wwwroot\\background.png",
+      "SourceId": "CustomComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\wwwroot\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "CustomComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\source\\repos\\BlazorDay3_Task_SD43\\CustomComponents\\wwwroot\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+﻿@page "/getalltrainees"
+
+<h3>Trainees</h3>
+
+@code {
+    IEnumerable<Trainee> trainees = new List<Trainee>();
+    IEnumerable<Track> tracks = new List<Track>();
+
+    [Inject]
+    public ITraineeDataService traineeDataService { get; set; }
+
+    [Inject]
+    public ITrackDataService trackDataService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        trainees = await traineeDataService.GetAllTrainees();
+        tracks = await trackDataService.GetAllTracks();
+    }
+}
+
+<a href="@($"newTrainee")" class="btn btn-outline-primary"> New Trainee</a>
+@if (!trainees.Any())
+{
+    <p>Loading.....</p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>BirthDate</th>
+            <th>Email</th>
+            <th>Gender</th>
+            <th>MobileNo</th>
+            <th>IsGraduated</th>
+            <th>Track</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+        @foreach (var item in trainees)
+        {
+            <tr>
+                <th>@item.TraineeID</th>
+                <th>@item.Name</th>
+                <th>@item.BirthDate.ToString("dd/MM/yyyy")</th>
+                <th>@item.Email</th>
+                <th>@item.Gender</th>
+                <th>@item.MobileNo</th>
+                <th><input type="checkbox" checked="@item.IsGraduated" disabled /></th>
+                <th>@(tracks.FirstOrDefault(t => t.TrackID == item.TrackID)?.Name)</th>
+                <td> <a href="@($"traineedetails/{item.TraineeID}")" class="btn btn-outline-primary"> Details </a> </td>
+                <td> <a href="@($"traineeedit/{item.TraineeID}")" class="btn btn-outline-primary"> Edit </a> </td>
+                <td> <a href="@($"traineedelete/{item.TraineeID}")" class="btn btn-outline-primary"> Delete </a> </td>
+            </tr>
+        }
+    </table>
+}

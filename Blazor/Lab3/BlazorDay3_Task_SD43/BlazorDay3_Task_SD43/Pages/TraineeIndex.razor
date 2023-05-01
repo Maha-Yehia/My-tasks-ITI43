@@ -1,0 +1,53 @@
+﻿@page "/traineeindex"
+<h3>TraineeIndex</h3>
+@code{
+
+}
+@if (StaticLists.TraineeList.Count == 0)
+{
+    <p>Loading....................</p>
+}
+else
+{
+    <a href="@("traineecreate")" class="btn btn-outline-success">Create New</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Trainee Id</th>
+                <th>Name</th>
+                <th>Gender</th>
+                <th>Email</th>
+                <th>MobileNo</th>
+                <th>Birthdate</th>
+                <th>IsGraduated</th>
+                <th>TrackId</th>
+                <th>Track name</th>
+                <th>&ensp;</th>
+                <th>&ensp;</th>
+                <th>&ensp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in StaticLists.TraineeList)
+            {
+                var trackname = StaticLists.TrackList.FirstOrDefault(t => t.TrackId == item.TrackId).Name;
+                <tr>
+                    <td>@item.TraineeId</td>
+                    <td>@item.Name</td>
+                    <td>@item.Gender</td>
+                    <td>@item.Email</td>
+                    <td>@item.MobileNo</td>
+                    <td>@item.Birthdate</td>
+                    <td>@item.IsGraduated</td>
+                    <td>@item.TrackId</td>
+                    <td>@trackname</td>
+                    <td><a class="btn btn-outline-primary" href="@($"traineeedit/{item.TraineeId}")">Edit</a></td>
+                    <td><a class="btn btn-outline-dark" href="@($"traineedetails/{item.TraineeId}")">Details</a></td>
+                    <td><a class="btn btn-outline-danger" href="@($"traineedelete/{item.TraineeId}")">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+

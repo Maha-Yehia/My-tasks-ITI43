@@ -1,0 +1,96 @@
+﻿@page "/traineeedit/{id:int}"
+<h3>TraineeEdit</h3>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    public Trainee? currentTrainee { get; set; }
+    public bool saved { get; set; }
+    protected override Task OnInitializedAsync()
+    {
+        saved = false;
+        currentTrainee = StaticLists.TraineeList.FirstOrDefault(t => t.TraineeId == id);
+        return base.OnInitializedAsync();
+    }
+    public void HandleValidSubmit()
+    {
+        var editTrainee = StaticLists.TraineeList.FirstOrDefault(t => t.TraineeId == id);
+        editTrainee.Name = currentTrainee.Name;
+        editTrainee.Gender = currentTrainee.Gender;
+        editTrainee.Email = currentTrainee.Email;
+        editTrainee.MobileNo = currentTrainee.MobileNo;
+        editTrainee.Birthdate = currentTrainee.Birthdate;
+        editTrainee.IsGraduated = currentTrainee.IsGraduated;
+        editTrainee.TrackId = currentTrainee.TrackId;
+        saved = true;
+    }
+    public void HandleInvalidSubmit()
+    {
+        saved = false;
+    }
+}
+
+@if (!saved)
+{
+
+
+    <EditForm Model="@currentTrainee" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="HandleInvalidSubmit">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <ValidationSummary></ValidationSummary>
+        <div class="form-group">
+            <label for="traineename"> Name</label>
+            <InputText id="traineename" class="form-control" @bind-Value=@currentTrainee.Name></InputText>
+            <ValidationMessage For="@(()=>currentTrainee.Name)"></ValidationMessage>
+        </div>
+        <div class="form-group">
+            <label for="trackGender"> Gender</label>
+            <InputSelect id="trackGender" class="form-control" @bind-Value=@currentTrainee.Gender>
+                <option value="@(Gender.male)"> Male</option>
+                <option value="@(Gender.female)"> Female</option>
+            </InputSelect>
+            <ValidationMessage For="@(()=>currentTrainee.Gender)"></ValidationMessage>
+        </div>
+        <div class="form-group">
+            <label for="trackemail"> Email</label>
+            <InputText id="trackemail" class="form-control" @bind-Value=@currentTrainee.Email></InputText>
+            <ValidationMessage For="@(()=>currentTrainee.Email)"></ValidationMessage>
+        </div>
+        <div class="form-group">
+            <label for="trackeno"> Mobile no</label>
+            <InputText id="trackeno" class="form-control" @bind-Value=@currentTrainee.MobileNo></InputText>
+            <ValidationMessage For="@(()=>currentTrainee.MobileNo)"></ValidationMessage>
+        </div>
+        <div class="form-group">
+            <label for="trackdate"> BirthDate</label>
+            <InputDate id="trackdate" class="form-control" @bind-Value=@currentTrainee.Birthdate></InputDate>
+            <ValidationMessage For="@(()=>currentTrainee.Birthdate)"></ValidationMessage>
+        </div>
+        <div class="form-group">
+            <label for="trackgrd"> Is Graduated</label>
+            <InputCheckbox  id="trackgrd" class="form-check-input" @bind-Value=@currentTrainee.IsGraduated></InputCheckbox>
+            <ValidationMessage For="@(()=>currentTrainee.IsGraduated)"></ValidationMessage>
+        </div>
+
+        <div class="form-group">
+            <label for="tracktrc"> Track </label>
+            <InputSelect id="tracktrc" class="form-control" @bind-Value=@currentTrainee.TrackId>
+                @foreach (var item in StaticLists.TrackList)
+                {
+                <option value="@item.TrackId">@item.Name</option>
+            }
+            </InputSelect>
+            <ValidationMessage For="@(()=>currentTrainee.TrackId)"></ValidationMessage>
+        </div>
+
+        <button type="submit" class="btn btn-primary my-3">Update trainee</button>
+    </EditForm>
+}
+else
+{
+    <div class="alert-success">
+        Trainee updated Successfully......
+    </div>
+
+    <a class="btn btn-primary my-3" href="/traineeindex"> Back to list</a>
+}

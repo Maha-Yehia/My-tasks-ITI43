@@ -1,0 +1,125 @@
+﻿@page "/traineeedit/{TraineeID:int}"
+
+<h3>EditTrainee</h3>
+
+@code {
+    [Parameter]
+    public int TraineeID { get; set; }
+
+    public Trainee CurrTrainee { get; set; }
+    public bool Saved;
+
+    //used to show state of form
+    protected string StatusClass;
+    protected string Msg;
+    IEnumerable<Track> tracks;
+
+    [Inject]
+    public ITraineeDataService traineeDataService { get; set; }
+    [Inject]
+    public ITrackDataService trackDataService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Saved = false;
+        CurrTrainee = await traineeDataService.GetTraineeDetails(TraineeID);
+        tracks = await trackDataService.GetAllTracks();
+    }
+
+    protected async Task HandleValidSubmit()
+    {
+        await traineeDataService.UpdateTrainee(CurrTrainee);
+
+        StatusClass = "alert-success";
+        Msg = "Current Employee Updated Successfully...";
+        Saved = true;
+    }
+
+
+    protected void HandleInvalidSubmit()
+    {
+        StatusClass = "alert-danger";
+        Msg = "There are some validation Errors. Please try again...";
+        //Saved = false;
+    }
+}
+
+@if (CurrTrainee != null && tracks!= null ){
+if(!Saved)
+{
+    <EditForm Model="@CurrTrainee" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
+
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+
+        <ValidationSummary></ValidationSummary>
+
+        <div class="form-group row">
+            <label for="Name" class="col-form-label">Name: </label>
+            <InputText id="Name" class="form-control" @bind-Value="@CurrTrainee.Name" placeholder="Enter first name"></InputText>
+            <ValidationMessage For="@(() => CurrTrainee.Name)" />
+        </div>
+
+
+        <div class="form-group row">
+            <label for="birthdate" class="col-form-label">Birthdate: </label>
+            <InputDate id="birthdate" class="form-control" @bind-Value="@CurrTrainee.BirthDate" placeholder="Enter birthdate"></InputDate>
+
+        </div>
+        <div class="form-group row">
+            <label for="email" class="col-form-label">Email: </label>
+            <InputText id="email" class="form-control" @bind-Value="@CurrTrainee.Email" placeholder="Enter email"></InputText>
+            <ValidationMessage For="@(() => CurrTrainee.Email)" />
+        </div>
+
+        <div class="form-group row">
+            <label for="track" class="col-form-label">Track: </label>
+            <InputSelect id="track" class="form-control" @bind-Value="@CurrTrainee.TrackID">
+                @foreach (var track in tracks)
+                {
+                    <option value="@track.TrackID">
+                        @track.Name
+                    </option>
+                }
+            </InputSelect>
+        </div>
+
+            <div class="form-group row">
+                <label for="phonenumber" class="col-form-label">Phone number: </label>
+                <InputText id="phonenumber" class="form-control" @bind-Value="@CurrTrainee.MobileNo" placeholder="Enter phone number"></InputText>
+            </div>
+
+            <div class="form-group row">
+                <label for="gender" class="col-form-label">Gender: </label>
+                <InputSelect id="gender" class="form-control" @bind-Value=@CurrTrainee.Gender>
+                    <option value="@(Gender.Male)">Male</option>
+                    <option value="@(Gender.Female)">Female</option>
+                </InputSelect>
+            </div>
+
+            <div class="form-group row">
+                <label class="col-form-label"> IsGraduated </label>
+                <div class="col-md-9">
+                    <div class="form-check form-check-inline">
+                        <InputCheckbox id="IsGraduated" class="form-check-input" @bind-Value="@CurrTrainee.IsGraduated" />
+                    </div>
+                </div>
+            </div>
+
+
+        <button type="submit" class="btn btn-primary">Update</button>
+            <a href="/getalltrainees" class="btn btn-secondary">Cancel</a>
+    </EditForm>
+}
+else if (CurrTrainee != null && Saved)
+{
+    <div class="@StatusClass">
+        <p>@Msg</p>
+        <a href="/getalltrainees" class="btn btn-primary">Back to Trainees</a>
+    </div>
+}
+}
+else
+{
+    <p>Trainee not found!</p>
+    <a href="/getalltrainees" class="btn btn-primary">Back to Trainees</a>
+}

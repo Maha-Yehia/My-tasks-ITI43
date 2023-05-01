@@ -1,0 +1,32 @@
+﻿@code {
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public EventCallback OnClose { get; set; }
+    private async Task ClosePopup()
+    {
+        await OnClose.InvokeAsync();
+    }
+
+
+}
+<div class="popup-overlay" @onclick="@ClosePopup">
+    <div class="popup-content">
+        <div class="popup-header">
+            <h4>@Title</h4>
+            <button class="close-button" @onclick="@ClosePopup">X</button>
+        </div>
+        <div class="popup-body">
+            @ChildContent
+        </div>
+    </div>
+</div>
+
+@*<PopupComponent Title="Example popup" OnClose="@(() => { IsPopupOpen = false; })">
+    <p>Example popup content</p>
+</PopupComponent>
+*@

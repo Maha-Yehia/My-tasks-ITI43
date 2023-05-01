@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:BlazorDay3_Task_SD43ContextConnection"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿@page "/traineedelete/{TraineeId:int}"
+
+@code
+{
+    [Parameter]
+    public int TraineeID { get; set; }
+
+    public Trainee delTrainee { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        delTrainee = MockContext.Trainees.FirstOrDefault(em => em.TraineeID == TraineeID);
+        MockContext.Trainees.Remove(delTrainee);
+
+        return base.OnInitializedAsync();
+    }
+}
+
+<div class="alert-danger">
+    <h3>EmployeeDetails for @delTrainee.Name Was Deleted Successfully!!!! <a href="/getalltrainees">Back to List</a> </h3>
+</div>
+

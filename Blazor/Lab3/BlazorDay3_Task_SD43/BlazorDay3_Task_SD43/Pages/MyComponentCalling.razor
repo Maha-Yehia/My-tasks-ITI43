@@ -1,0 +1,29 @@
+﻿@page "/customePage"
+@using CustomComponents
+@inject IJSRuntime JsRuntime
+
+<button @onclick="alert">Alert Me</button>
+
+<button @onclick="prompt"> Call JS From BlazorRazor </button>
+
+<h1>@movie</h1>
+@code{
+    string movie;
+    async Task alert()
+    {
+        await JsRuntime.InvokeVoidAsync("alert", "Hello from My Task");
+
+
+    }
+    async Task prompt()
+    {
+        movie = await JsRuntime.InvokeAsync<string>("prompt", "What is your favorite movie?");
+    }
+}
+
+
+<CustomComponent1></CustomComponent1>
+<Todo></Todo>
+
+
+

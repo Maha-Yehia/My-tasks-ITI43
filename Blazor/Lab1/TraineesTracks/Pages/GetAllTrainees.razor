@@ -1,0 +1,49 @@
+﻿@page "/getalltrainees"
+
+<h3>Trainees</h3>
+
+@code {
+
+}
+
+@if(MockContext.Trainees == null){
+    <p>Loading.....</p>
+}
+else{
+    <a href="@($"newTrainee")" class="btn btn-outline-primary"> New Trainee</a>
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>BirthDate</th>
+            <th>Email</th>
+            <th>Gender</th>
+            <th>MobileNo</th>
+            <th>IsGraduated</th>
+            <th>Track</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+        @foreach (var item in MockContext.Trainees)
+        {
+            <tr>
+                <th>@item.TraineeID</th>
+                <th>@item.Name</th>
+                @*<th>@item.BirthDate.ToShortDateString()</th> "MM/dd/yyyy"*@
+                <th>@item.BirthDate.ToString("dd/MM/yyyy")</th>
+                <th>@item.Email</th>
+                <th>@item.Gender</th>
+                <th>@item.MobileNo</th>
+                <th><input type="checkbox" checked="@item.IsGraduated" disabled /></th>
+                @*<th><input type="checkbox" @bind="item.IsGraduated" disabled /></th>*@
+                @*<th>@item.IsGraduated</th>*@
+                @*<th>@item.Track?.Name</th>*@
+                <th>@MockContext.Tracks.FirstOrDefault(t=> t.TrackID == @item.TrackID).Name</th>
+                <td> <a href="@($"traineedetails/{item.TraineeID}")" class="btn btn-outline-primary"> Details </a> </td>
+                <td> <a href="@($"traineeedit/{item.TraineeID}")" class="btn btn-outline-primary"> Edit </a> </td>
+                <td> <a href="@($"traineedelete/{item.TraineeID}")" class="btn btn-outline-primary"> Delete </a> </td>
+            </tr>
+        }
+    </table>
+}

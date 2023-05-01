@@ -1,0 +1,53 @@
+﻿@page "/trackcreatedb"
+<h3>Trackcreate</h3>
+
+@code {
+    public Track NewTrack { get; set; } = new Track();
+    private bool saved = false;
+    protected override Task OnInitializedAsync()
+    {
+        saved=false;
+        return base.OnInitializedAsync();
+    }
+    public void HandleValidSubmit()
+    {
+        NewTrack.TrackId = StaticLists.TrackList.LastOrDefault().TrackId + 1;
+        StaticLists.TrackList.Add(NewTrack);
+        NewTrack = new Track();
+        saved = true;
+    }
+    public void HandleInvalidSubmit()
+    {
+        saved = false;    
+    }
+}
+@if (!saved)
+{
+
+
+    <EditForm Model="@NewTrack" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="HandleInvalidSubmit">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <ValidationSummary></ValidationSummary>
+        <div class="form-group">
+            <label for="trackname"> Name</label>
+            <InputText id="trackname" class="form-control" @bind-Value=@NewTrack.Name></InputText>
+            <ValidationMessage For="@(()=>NewTrack.Name)"></ValidationMessage>
+        </div>
+        <div class="form-group">
+            <label for="trackdes"> description</label>
+            <InputText id="trackdes" class="form-control" @bind-Value=@NewTrack.Description></InputText>
+            <ValidationMessage For="@(()=>NewTrack.Description)"></ValidationMessage>
+        </div>
+
+
+        <button type="submit" class="btn btn-primary my-3">Add Track</button>
+    </EditForm>
+}
+else
+{
+    <div class="alert-success">
+        Track Added Successfully......
+    </div>
+
+    <a class="btn btn-primary my-3" href="/trackindex"> Back to list</a>
+}

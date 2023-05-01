@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = CustomComponents
+build_property.RootNamespace = CustomComponents
+build_property.ProjectDir = C:\Users\ahmed\source\repos\BlazorDay3_Task_SD43\CustomComponents\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ahmed\source\repos\BlazorDay3_Task_SD43\CustomComponents
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ahmed/source/repos/BlazorDay3_Task_SD43/CustomComponents/CustomComponent1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/source/repos/BlazorDay3_Task_SD43/CustomComponents/Data2.razor]
+build_metadata.AdditionalFiles.TargetPath = RGF0YTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/source/repos/BlazorDay3_Task_SD43/CustomComponents/PopUpComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UG9wVXBDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/source/repos/BlazorDay3_Task_SD43/CustomComponents/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = VG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/source/repos/BlazorDay3_Task_SD43/CustomComponents/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/source/repos/BlazorDay3_Task_SD43/CustomComponents/Component1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-vms9m5pk1l
